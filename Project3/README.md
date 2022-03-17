@@ -1,5 +1,5 @@
 # CS143-Project3
-Data conversion project for CS143 (from json objects to SQL queries)
+Data conversion project for CS143 (using SQL queries to parse JSON objects)
 
 ## Schema:
 - Laureate(lid, nid)
