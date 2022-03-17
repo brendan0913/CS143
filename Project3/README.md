@@ -1,5 +1,5 @@
 # CS143-Project3
-Data conversion project for CS143
+Data conversion project for CS143 (from json objects to SQL queries)
 
 ## Schema:
 - Laureate(lid, nid)
